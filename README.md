@@ -1,4 +1,7 @@
-### Hi there 👋
+### Heya people 👋
+I am currently working on a game engine (with a lot of suprises ;D )
+I am learning java
+
 
 <!--
 **esertt/esertt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
