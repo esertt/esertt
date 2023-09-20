@@ -1,6 +1,6 @@
 ### Heya people 👋
-#I am currently working on a game engine (with a lot of suprises ;D )
-#I am learning java
+# I am currently working on a game engine (with a lot of suprises ;D )
+# I am learning java
 
 
 <!--
